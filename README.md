@@ -1,4 +1,4 @@
-# 🇮🇳 AgriData Explorer: A Data Visualization Platform for Indian Agriculture
+# AgriData Explorer: A Data Visualization Platform for Indian Agriculture
 
 ## 🌾 Overview
 
@@ -58,8 +58,8 @@ Cleaned data is saved in `cleaned_agriculture_data.csv`, and is ready for SQL in
 
 ### 1️⃣ Home Screen
 Central hub with navigation links to all insights pages.
+![image](https://github.com/user-attachments/assets/7de7113a-29e6-4e78-8017-5edaeaa4ce31)
 
-![Home Screen](screenshots/home.png)
 
 ### 2️⃣ National Crop Production Overview  
 Macro-level view of India’s total production, area, and yield.
