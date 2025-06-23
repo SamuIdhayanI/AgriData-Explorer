@@ -104,7 +104,7 @@ Dedicated views for key crops: Rice, Wheat, Oilseeds, Groundnut, Sugarcane, Sunf
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/yourusername/AgriData-Explorer.git
+git clone https://github.com/SamuIdhayanI/AgriData-Explorer.git
 ```
 
 2. **Data Preprocessing (Python)**:
