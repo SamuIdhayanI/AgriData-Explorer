@@ -55,6 +55,7 @@ Cleaned data is saved in `cleaned_agriculture_data.csv`, and is ready for SQL in
 | **Power BI**| Dashboard and storytelling          |
 
 ## 📈 Power BI Dashboard Pages
+[🚀 Show Live Report](https://app.powerbi.com/groups/me/reports/d6490099-24cd-403f-b9c5-631b10df05c9/cd8492cbd0bf5cce43e6?experience=power-bi)
 
 ### 1️⃣ Home Screen
 Central hub with navigation links to all insights pages.
