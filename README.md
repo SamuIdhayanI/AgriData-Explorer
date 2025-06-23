@@ -63,35 +63,33 @@ Central hub with navigation links to all insights pages.
 
 ### 2️⃣ National Crop Production Overview  
 Macro-level view of India’s total production, area, and yield.
+![image](https://github.com/user-attachments/assets/b4b31512-13b6-4334-b9a2-d8aa1bd49ab2)
 
-![National Overview](screenshots/national_overview.png)
 
 ### 3️⃣ Crop-Specific Trends Over Time  
 Explore production and yield trends for each major crop.
+![image](https://github.com/user-attachments/assets/0fd7603f-5809-4362-97b1-740225739e43)
 
-![Crop Trends](screenshots/crop_trends.png)
 
 ### 4️⃣ Regional and District-Level Insights  
 District-wise breakdown and comparisons for selected crops.
-
-![District Insights](screenshots/regional_district.png)
+![image](https://github.com/user-attachments/assets/26e2dfed-8731-484e-97d3-a921fe26063e)
 
 ### 5️⃣ Yield and Efficiency Analysis  
 Comparison of crop yields and cultivation efficiency.
-
-![Yield Analysis](screenshots/yield_efficiency.png)
+![image](https://github.com/user-attachments/assets/58de4ec8-2d65-4ebc-8df2-acf36ffa3759)
 
 ### 6️⃣ Growth and Performance Analytics  
 Focus on recent changes in area and production across years.
-
-![Growth Performance](screenshots/growth_performance.png)
+![image](https://github.com/user-attachments/assets/b5c47339-b66f-4e4a-9cff-2512a5a60546)
 
 ### 7️⃣ Crop-Specific Insights  
 Dedicated views for key crops: Rice, Wheat, Oilseeds, Groundnut, Sugarcane, Sunflower.
-
-![Crop Specific](screenshots/crop_specific.png)
+![image](https://github.com/user-attachments/assets/79514348-90fa-4ef9-8eea-fd2fef15aeb6)
 
 > 📌 All dashboards include **customized tooltips**, **icons**, and **themed visuals** to enhance clarity and user experience.
+> ![image](https://github.com/user-attachments/assets/84d238e3-c0c6-404e-909f-d87e9a502b91)
+
 
 ## 🚀 Getting Started
 
