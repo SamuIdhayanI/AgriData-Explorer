@@ -1,0 +1,18 @@
+{
+  "name": "Rich Pastel Green Agri Theme",
+  "dataColors": [
+    "#6DA36E",
+    "#8DBA82",
+    "#A7C98F",
+    "#E5D68A",
+    "#7CA3CC",
+    "#D8BFAA",
+    "#5B8C5A",
+    "#C0D9B7",
+    "#DCE9CE",
+    "#82B1B7"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#2E5D2E",
+  "tableAccent": "#6DA36E"
+}
