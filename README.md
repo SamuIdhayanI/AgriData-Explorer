@@ -54,8 +54,6 @@ Cleaned data is saved in `cleaned_agriculture_data.csv`, and is ready for SQL in
 | **Matplotlib & Seaborn** | Visual exploration      |
 | **Power BI**| Dashboard and storytelling          |
 
-## 📈 Power BI Dashboard Pages
-[🚀 Show Live Report](https://app.powerbi.com/links/nlXCmixkVU?ctid=4ebbd684-db3f-4986-a58e-ccdf32f2d854&pbi_source=linkShare&bookmarkGuid=afb2f789-78d1-4a03-9300-a7be0733d7ce)
 
 ### 1️⃣ Home Screen
 Central hub with navigation links to all insights pages.
